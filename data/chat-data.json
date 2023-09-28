@@ -1,0 +1,50 @@
+{
+  "chat": [
+    {
+      "id": 1,
+      "text": "Buenas tardes, acabo de subir el primer archivo con el primer caso práctico, espero revisión.",
+      "date": "2023-09-23T09:15:00",
+      "img": "https://fastly.picsum.photos/id/96/4752/3168.jpg?hmac=KNXudB1q84CHl2opIFEY4ph12da5JD5GzKzH5SeuRVM",
+      "isLoggedIn": true
+    },
+    {
+      "id": 2,
+      "text": "¡Gran trabajo Fran! Pero creo que deberías revisar el punto 3. Intenta añadir un poco más de contexto y un apartado final de conclusiones personales.",
+      "date": "2023-09-23T09:17:00",
+      "img": "https://fastly.picsum.photos/id/870/200/300.jpg?blur=2&grayscale&hmac=ujRymp644uYVjdKJM7kyLDSsrqNSMVRPnGU99cKl6Vs"
+    },
+    {
+      "id": 3,
+      "text": "Realizados los cambios según feedback.Realizados los cambios según feedback. Realizados los cambios según feedback.",
+      "date": "2023-09-23T09:18:30",
+      "img": "https://fastly.picsum.photos/id/96/4752/3168.jpg?hmac=KNXudB1q84CHl2opIFEY4ph12da5JD5GzKzH5SeuRVM",
+      "isLoggedIn": true
+    },
+    {
+      "id": 4,
+      "text": "Perfecto, excelente trabajo.",
+      "date": "2023-09-23T09:20:00",
+      "img": "https://fastly.picsum.photos/id/870/200/300.jpg?blur=2&grayscale&hmac=ujRymp644uYVjdKJM7kyLDSsrqNSMVRPnGU99cKl6Vs"
+    },
+    {
+      "id": 5,
+      "numberVersion": 1,
+      "name": "Titulo del archivo a subir 2.pdf",
+      "format": "PDF",
+      "size": "3.8 MB",
+      "date": "2023-09-23T09:19:00",
+      "url": "https://example.com/proyecto-final.pdf",
+      "type": "file"
+    },
+    {
+      "id": 6,
+      "numberVersion": 2,
+      "name": "Titulo del archivo a subir 2.pdf",
+      "format": "PDF",
+      "size": "4.8 MB",
+      "date": "2023-09-23T09:16:00",
+      "url": "https://example.com/datos-investigacion.xlsx",
+      "type": "file"
+    }
+  ]
+}
